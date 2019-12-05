@@ -1,0 +1,13 @@
+.mypane{
+	-fx-background-color: linear-gradient(#560A58, #D06ED3); 
+}
+
+.mytitle{
+    -fx-font-family: "Arial";
+    -fx-font-size: 40px;
+}
+.mybutton{
+	-fx-background-color: blue;
+	-fx-border-color: blue;
+	-fx-text-fill: white;
+}
